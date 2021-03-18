@@ -52,14 +52,14 @@ function outputData(person) {
   if ((new RegExp(/author/gi)).test(person.profession)) {
     row.classList.add('auto');
   }
-  // Add a class to American
-  if ((new RegExp(/American/gi)).test(person.profession)) {
-    row.classList.add('American');
-  }
-  // Add a class to musician
-  if ((new RegExp(/musician/gi)).test(person.profession)) {
-    row.classList.add('musician');
-}
+//   // Add a class to American
+//   if ((new RegExp(/American/gi)).test(person.profession)) {
+//     row.classList.add('American');
+//   }
+//   // Add a class to musician
+//   if ((new RegExp(/musician/gi)).test(person.profession)) {
+//     row.classList.add('musician');
+// }
 
 
 // The below function will get called when the window finishes loading our data
