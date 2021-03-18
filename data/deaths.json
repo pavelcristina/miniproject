@@ -1,9 +1,1730 @@
 [
- {
-    "link": "https://de.wikipedia.org/wiki/Anne_Francis",
-    "day": 2,
-    "month": "Januar",
-    "profession": "US-amerikanische Schauspielerin",
-    "birthyear": 1930
- }
+   {
+      "birthyear" : "1918",
+      "profession" : "American paratrooper",
+      "month" : "January",
+      "link" : "https://en.wikipedia.org/wiki/Richard_Winters",
+      "day" : "2",
+      "name" : "Richard Winters"
+   },
+   {
+      "name" : "Anne Francis",
+      "day" : "2",
+      "profession" : "American actress",
+      "month" : "January",
+      "birthyear" : "1930",
+      "link" : "https://en.wikipedia.org/wiki/Anne_Francis"
+   },
+   {
+      "profession" : "Prince Ali-Reza Pahlavi of Iran",
+      "month" : "January",
+      "birthyear" : "1966",
+      "link" : "https://en.wikipedia.org/wiki/Ali-Reza_Pahlavi",
+      "name" : "Ali-Reza Pahlavi",
+      "day" : "4"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Gerry_Rafferty",
+      "month" : "January",
+      "profession" : "Scottish musician",
+      "birthyear" : "1947",
+      "name" : "Gerry Rafferty",
+      "day" : "4"
+   },
+   {
+      "day" : "10",
+      "name" : "John Dye",
+      "link" : "https://en.wikipedia.org/wiki/John_Dye",
+      "birthyear" : "1963",
+      "profession" : "American actor",
+      "month" : "January"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Margaret_Whiting",
+      "month" : "January",
+      "profession" : "American country and pop musician",
+      "birthyear" : "1924",
+      "name" : "Margaret Whiting",
+      "day" : "10"
+   },
+   {
+      "name" : "David Nelson",
+      "day" : "11",
+      "month" : "January",
+      "profession" : "American actor, director and producer",
+      "birthyear" : "1936",
+      "link" : "https://en.wikipedia.org/wiki/David_Nelson_(actor)"
+   },
+   {
+      "day" : "15",
+      "name" : "Nat Lofthouse",
+      "birthyear" : "1925",
+      "month" : "January",
+      "profession" : "English footballer",
+      "link" : "https://en.wikipedia.org/wiki/Nat_Lofthouse"
+   },
+   {
+      "day" : "15",
+      "name" : "Susannah York",
+      "birthyear" : "1939",
+      "month" : "January",
+      "profession" : "English actress",
+      "link" : "https://en.wikipedia.org/wiki/Susannah_York"
+   },
+   {
+      "name" : "Sargent Shriver",
+      "day" : "18",
+      "profession" : "American diplomat, politician, and activist",
+      "month" : "January",
+      "birthyear" : "1915",
+      "link" : "https://en.wikipedia.org/wiki/Sargent_Shriver"
+   },
+   {
+      "day" : "21",
+      "name" : "Dennis Oppenheim",
+      "birthyear" : "1938",
+      "month" : "January",
+      "profession" : "American artist",
+      "link" : "https://en.wikipedia.org/wiki/Dennis_Oppenheim"
+   },
+   {
+      "birthyear" : "1949",
+      "profession" : "German film producer, director and screenwriter",
+      "month" : "January",
+      "link" : "https://en.wikipedia.org/wiki/Bernd_Eichinger",
+      "day" : "24",
+      "name" : "Bernd Eichinger"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Gladys_Horton",
+      "profession" : "American singer, lead singer and founder of The Marvelettes",
+      "month" : "January",
+      "birthyear" : "1945",
+      "name" : "Gladys Horton",
+      "day" : "26"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Charlie_Callas",
+      "birthyear" : "1924",
+      "profession" : "American comedian and actor",
+      "month" : "January",
+      "day" : "27",
+      "name" : "Charlie Callas"
+   },
+   {
+      "name" : "Milton Babbitt",
+      "day" : "29",
+      "profession" : "American composer",
+      "month" : "January",
+      "birthyear" : "1916",
+      "link" : "https://en.wikipedia.org/wiki/Milton_Babbitt"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/John_Barry_(composer)",
+      "birthyear" : "1933",
+      "month" : "January",
+      "profession" : "English composer",
+      "day" : "30",
+      "name" : "John Barry"
+   },
+   {
+      "name" : "Maria Schneider",
+      "day" : "3",
+      "link" : "https://en.wikipedia.org/wiki/Maria_Schneider_(actress)",
+      "profession" : "French actress",
+      "month" : "February",
+      "birthyear" : "1952"
+   },
+   {
+      "name" : "Martial Célestin",
+      "day" : "4",
+      "profession" : "1st Prime Minister of Haiti",
+      "month" : "February",
+      "birthyear" : "1913",
+      "link" : "https://en.wikipedia.org/wiki/Martial_Célestin"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Brian_Jacques",
+      "birthyear" : "1939",
+      "profession" : "British author",
+      "month" : "February",
+      "day" : "5",
+      "name" : "Brian Jacques"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Josefa_Iloilo",
+      "birthyear" : "1920",
+      "month" : "February",
+      "profession" : "2-Time President of Fiji",
+      "day" : "6",
+      "name" : "Josefa Iloilo"
+   },
+   {
+      "name" : "Gary Moore",
+      "day" : "6",
+      "link" : "https://en.wikipedia.org/wiki/Gary_Moore",
+      "profession" : "British musician",
+      "month" : "February",
+      "birthyear" : "1952"
+   },
+   {
+      "day" : "8",
+      "name" : "Cesare Rubini",
+      "link" : "https://en.wikipedia.org/wiki/Cesare_Rubini",
+      "birthyear" : "1923",
+      "month" : "February",
+      "profession" : "Italian basketball player and coach"
+   },
+   {
+      "day" : "12",
+      "name" : "Betty Garrett",
+      "link" : "https://en.wikipedia.org/wiki/Betty_Garrett",
+      "birthyear" : "1919",
+      "profession" : "American actress and dancer",
+      "month" : "February"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Kenneth_Mars",
+      "profession" : "American actor",
+      "month" : "February",
+      "birthyear" : "1935",
+      "name" : "Kenneth Mars",
+      "day" : "12"
+   },
+   {
+      "name" : "George Shearing",
+      "day" : "14",
+      "month" : "February",
+      "profession" : "British-American jazz pianist",
+      "birthyear" : "1919",
+      "link" : "https://en.wikipedia.org/wiki/George_Shearing"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Len_Lesser",
+      "birthyear" : "1922",
+      "month" : "February",
+      "profession" : "American actor",
+      "day" : "16",
+      "name" : "Len Lesser"
+   },
+   {
+      "name" : "Shri Mataji Nirmala Srivastava",
+      "day" : "23",
+      "link" : "https://en.wikipedia.org/wiki/Shri_Mataji_Nirmala_Srivastava",
+      "profession" : "Indian founder of Sahaja Yoga",
+      "month" : "February",
+      "birthyear" : "1923"
+   },
+   {
+      "birthyear" : "1961",
+      "month" : "February",
+      "profession" : "American filmmaker",
+      "link" : "https://en.wikipedia.org/wiki/Gary_Winick",
+      "day" : "27",
+      "name" : "Gary Winick"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Necmettin_Erbakan",
+      "birthyear" : "1926",
+      "profession" : "25th Prime Minister of Turkey",
+      "month" : "February",
+      "day" : "27",
+      "name" : "Necmettin Erbakan"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Annie_Girardot",
+      "birthyear" : "1931",
+      "profession" : "French actress",
+      "month" : "February",
+      "day" : "28",
+      "name" : "Annie Girardot"
+   },
+   {
+      "name" : "Jane Russell",
+      "day" : "28",
+      "link" : "https://en.wikipedia.org/wiki/Jane_Russell",
+      "month" : "February",
+      "profession" : "American actress",
+      "birthyear" : "1921"
+   },
+   {
+      "name" : "Allan Louisy",
+      "day" : "2",
+      "link" : "https://en.wikipedia.org/wiki/Allan_Louisy",
+      "month" : "March",
+      "profession" : "2nd Prime Minister of Saint Lucia",
+      "birthyear" : "1916"
+   },
+   {
+      "name" : "Krishna Prasad Bhattarai",
+      "day" : "4",
+      "link" : "https://en.wikipedia.org/wiki/Krishna_Prasad_Bhattarai",
+      "month" : "March",
+      "profession" : "30th Prime Minister of Nepal",
+      "birthyear" : "1924"
+   },
+   {
+      "profession" : "Dutch Nobel physicist",
+      "month" : "March",
+      "birthyear" : "1925",
+      "link" : "https://en.wikipedia.org/wiki/Simon_van_der_Meer",
+      "name" : "Simon van der Meer",
+      "day" : "4"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Alberto_Granado",
+      "month" : "March",
+      "profession" : "Cuban writer and scientist",
+      "birthyear" : "1922",
+      "name" : "Alberto Granado",
+      "day" : "5"
+   },
+   {
+      "day" : "6",
+      "name" : "Ján Popluhár",
+      "link" : "https://en.wikipedia.org/wiki/Ján_Popluhár",
+      "birthyear" : "1935",
+      "month" : "March",
+      "profession" : "Slovak footballer"
+   },
+   {
+      "name" : "Mike Starr",
+      "day" : "8",
+      "link" : "https://en.wikipedia.org/wiki/Mike_Starr_(musician)",
+      "month" : "March",
+      "profession" : "American musician",
+      "birthyear" : "1966"
+   },
+   {
+      "day" : "15",
+      "name" : "Nate Dogg",
+      "birthyear" : "1969",
+      "profession" : "American rapper",
+      "month" : "March",
+      "link" : "https://en.wikipedia.org/wiki/Nate_Dogg"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Michael_Gough",
+      "month" : "March",
+      "profession" : "British actor",
+      "birthyear" : "1916",
+      "name" : "Michael Gough",
+      "day" : "17"
+   },
+   {
+      "month" : "March",
+      "profession" : "American diplomat",
+      "birthyear" : "1925",
+      "link" : "https://en.wikipedia.org/wiki/Warren_Christopher",
+      "name" : "Warren Christopher",
+      "day" : "18"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Nikolai_Andrianov",
+      "month" : "March",
+      "profession" : "Soviet-Russian gymnast",
+      "birthyear" : "1952",
+      "name" : "Nikolai Andrianov",
+      "day" : "21"
+   },
+   {
+      "day" : "21",
+      "name" : "Pinetop Perkins",
+      "birthyear" : "1913",
+      "month" : "March",
+      "profession" : "American singer and pianist",
+      "link" : "https://en.wikipedia.org/wiki/Pinetop_Perkins"
+   },
+   {
+      "name" : "Elizabeth Taylor",
+      "day" : "23",
+      "month" : "March",
+      "profession" : "British-American actress",
+      "birthyear" : "1932",
+      "link" : "https://en.wikipedia.org/wiki/Elizabeth_Taylor"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Geraldine_Ferraro",
+      "month" : "March",
+      "profession" : "American politician",
+      "birthyear" : "1935",
+      "name" : "Geraldine Ferraro",
+      "day" : "26"
+   },
+   {
+      "name" : "Diana Wynne Jones",
+      "day" : "26",
+      "link" : "https://en.wikipedia.org/wiki/Diana_Wynne_Jones",
+      "profession" : "British writer",
+      "month" : "March",
+      "birthyear" : "1934"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Farley_Granger",
+      "birthyear" : "1925",
+      "month" : "March",
+      "profession" : "American actor",
+      "day" : "27",
+      "name" : "Farley Granger"
+   },
+   {
+      "day" : "29",
+      "name" : "José Alencar",
+      "birthyear" : "1931",
+      "month" : "March",
+      "profession" : "Brazilian politician, 23rd Vice President of Brazil",
+      "link" : "https://en.wikipedia.org/wiki/José_Alencar"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Juliano_Mer-Khamis",
+      "birthyear" : "1958",
+      "month" : "April",
+      "profession" : "Israeli actor, director, filmmaker, and political activist",
+      "day" : "4",
+      "name" : "Juliano Mer-Khamis"
+   },
+   {
+      "profession" : "American drummer",
+      "month" : "April",
+      "birthyear" : "1956",
+      "link" : "https://en.wikipedia.org/wiki/Scott_Columbus",
+      "name" : "Scott Columbus",
+      "day" : "4"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Baruch_Samuel_Blumberg",
+      "month" : "April",
+      "profession" : "American physician",
+      "birthyear" : "1925",
+      "name" : "Baruch Samuel Blumberg",
+      "day" : "5"
+   },
+   {
+      "day" : "5",
+      "name" : "Ange-Félix Patassé",
+      "link" : "https://en.wikipedia.org/wiki/Ange-Félix_Patassé",
+      "birthyear" : "1937",
+      "month" : "April",
+      "profession" : "5th President of the Central African Republic"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Sidney_Lumet",
+      "birthyear" : "1924",
+      "profession" : "American film director",
+      "month" : "April",
+      "day" : "9",
+      "name" : "Sidney Lumet"
+   },
+   {
+      "day" : "14",
+      "name" : "William Lipscomb",
+      "birthyear" : "1919",
+      "profession" : "American chemist",
+      "month" : "April",
+      "link" : "https://en.wikipedia.org/wiki/William_Lipscomb"
+   },
+   {
+      "birthyear" : "1940",
+      "month" : "April",
+      "profession" : "Canadian actor",
+      "link" : "https://en.wikipedia.org/wiki/Michael_Sarrazin",
+      "day" : "17",
+      "name" : "Michael Sarrazin"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Elisabeth_Sladen",
+      "month" : "April",
+      "profession" : "English actress",
+      "birthyear" : "1946",
+      "name" : "Elisabeth Sladen",
+      "day" : "19"
+   },
+   {
+      "day" : "19",
+      "name" : "Grete Waitz",
+      "link" : "https://en.wikipedia.org/wiki/Grete_Waitz",
+      "birthyear" : "1953",
+      "profession" : "Norwegian athlete",
+      "month" : "April"
+   },
+   {
+      "month" : "April",
+      "profession" : "British photojournalist",
+      "birthyear" : "1970",
+      "link" : "https://en.wikipedia.org/wiki/Tim_Hetherington",
+      "name" : "Tim Hetherington",
+      "day" : "21"
+   },
+   {
+      "name" : "Sathya Sai Baba",
+      "day" : "24",
+      "link" : "https://en.wikipedia.org/wiki/Sathya_Sai_Baba",
+      "month" : "April",
+      "profession" : "Indian spiritual leader",
+      "birthyear" : "1926"
+   },
+   {
+      "month" : "April",
+      "profession" : "American football player",
+      "birthyear" : "1927",
+      "link" : "https://en.wikipedia.org/wiki/Joe_Perry_(American_football)",
+      "name" : "Joe Perry",
+      "day" : "25"
+   },
+   {
+      "name" : "Poly Styrene",
+      "day" : "25",
+      "link" : "https://en.wikipedia.org/wiki/Poly_Styrene",
+      "month" : "April",
+      "profession" : "British musician",
+      "birthyear" : "1957"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Ernesto_Sabato",
+      "profession" : "Argentine writer",
+      "month" : "April",
+      "birthyear" : "1911",
+      "name" : "Ernesto Sabato",
+      "day" : "30"
+   },
+   {
+      "name" : "Henry Cooper",
+      "day" : "1",
+      "profession" : "British heavyweight boxer",
+      "month" : "May",
+      "birthyear" : "1934",
+      "link" : "https://en.wikipedia.org/wiki/Henry_Cooper"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Osama_bin_Laden",
+      "birthyear" : "1957",
+      "month" : "May",
+      "profession" : "Saudi-born leader of Al-Qaeda",
+      "day" : "2",
+      "name" : "Osama bin Laden"
+   },
+   {
+      "day" : "3",
+      "name" : "Jackie Cooper",
+      "link" : "https://en.wikipedia.org/wiki/Jackie_Cooper",
+      "birthyear" : "1922",
+      "month" : "May",
+      "profession" : "American actor"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Sada_Thompson",
+      "birthyear" : "1927",
+      "profession" : "American actress",
+      "month" : "May",
+      "day" : "4",
+      "name" : "Sada Thompson"
+   },
+   {
+      "day" : "5",
+      "name" : "Claude Choules",
+      "link" : "https://en.wikipedia.org/wiki/Claude_Choules",
+      "birthyear" : "1901",
+      "profession" : "Anglo-Australian military serviceman",
+      "month" : "May"
+   },
+   {
+      "day" : "5",
+      "name" : "Dana Wynter",
+      "birthyear" : "1931",
+      "profession" : "German-born British actress",
+      "month" : "May",
+      "link" : "https://en.wikipedia.org/wiki/Dana_Wynter"
+   },
+   {
+      "name" : "Seve Ballesteros",
+      "day" : "7",
+      "link" : "https://en.wikipedia.org/wiki/Seve_Ballesteros",
+      "profession" : "Spanish golfer",
+      "month" : "May",
+      "birthyear" : "1957"
+   },
+   {
+      "birthyear" : "1924",
+      "profession" : "Canadian Nobel physicist",
+      "month" : "May",
+      "link" : "https://en.wikipedia.org/wiki/Willard_Boyle",
+      "day" : "7",
+      "name" : "Willard Boyle"
+   },
+   {
+      "name" : "Lionel Rose",
+      "day" : "8",
+      "link" : "https://en.wikipedia.org/wiki/Lionel_Rose",
+      "month" : "May",
+      "profession" : "Australian boxer",
+      "birthyear" : "1948"
+   },
+   {
+      "day" : "9",
+      "name" : "Lidia Gueiler Tejada",
+      "link" : "https://en.wikipedia.org/wiki/Lidia_Gueiler_Tejada",
+      "birthyear" : "1921",
+      "month" : "May",
+      "profession" : "56th President of Bolivia"
+   },
+   {
+      "name" : "Samuel Wanjiru",
+      "day" : "15",
+      "link" : "https://en.wikipedia.org/wiki/Samuel_Wanjiru",
+      "profession" : "Kenyan athlete",
+      "month" : "May",
+      "birthyear" : "1986"
+   },
+   {
+      "day" : "17",
+      "name" : "Harmon Killebrew",
+      "birthyear" : "1936",
+      "month" : "May",
+      "profession" : "American baseball player",
+      "link" : "https://en.wikipedia.org/wiki/Harmon_Killebrew"
+   },
+   {
+      "name" : "Guy Razanamasy",
+      "day" : "18",
+      "profession" : "2-Time Prime Minister of Madagascar",
+      "month" : "May",
+      "birthyear" : "1928",
+      "link" : "https://en.wikipedia.org/wiki/Guy_Razanamasy"
+   },
+   {
+      "day" : "19",
+      "name" : "Garret FitzGerald",
+      "link" : "https://en.wikipedia.org/wiki/Garret_FitzGerald",
+      "birthyear" : "1926",
+      "profession" : "8th Taoiseach of Ireland",
+      "month" : "May"
+   },
+   {
+      "day" : "20",
+      "name" : "Randy Savage",
+      "link" : "https://en.wikipedia.org/wiki/Randy_Savage",
+      "birthyear" : "1952",
+      "month" : "May",
+      "profession" : "American professional wrestler"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Bill_Hunter_(actor)",
+      "birthyear" : "1940",
+      "month" : "May",
+      "profession" : "Australian actor",
+      "day" : "21",
+      "name" : "Bill Hunter"
+   },
+   {
+      "birthyear" : "1949",
+      "profession" : "Iranian footballer",
+      "month" : "May",
+      "link" : "https://en.wikipedia.org/wiki/Nasser_Hejazi",
+      "day" : "23",
+      "name" : "Nasser Hejazi"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Xavier_Tondo",
+      "month" : "May",
+      "profession" : "Spanish professional racing cyclist",
+      "birthyear" : "1978",
+      "name" : "Xavier Tondo",
+      "day" : "23"
+   },
+   {
+      "day" : "27",
+      "name" : "Jeff Conaway",
+      "birthyear" : "1950",
+      "month" : "May",
+      "profession" : "American actor",
+      "link" : "https://en.wikipedia.org/wiki/Jeff_Conaway"
+   },
+   {
+      "name" : "Gil Scott-Heron",
+      "day" : "27",
+      "link" : "https://en.wikipedia.org/wiki/Gil_Scott-Heron",
+      "profession" : "American poet and musician",
+      "month" : "May",
+      "birthyear" : "1949"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Sergei_Bagapsh",
+      "profession" : "2nd President of Abkhazia",
+      "month" : "May",
+      "birthyear" : "1949",
+      "name" : "Sergei Bagapsh",
+      "day" : "29"
+   },
+   {
+      "profession" : "2nd President of Hungary",
+      "month" : "May",
+      "birthyear" : "1931",
+      "link" : "https://en.wikipedia.org/wiki/Ferenc_Mádl",
+      "name" : "Ferenc Mádl",
+      "day" : "29"
+   },
+   {
+      "name" : "Rosalyn Sussman Yalow",
+      "day" : "30",
+      "profession" : "American physicist",
+      "month" : "May",
+      "birthyear" : "1921",
+      "link" : "https://en.wikipedia.org/wiki/Rosalyn_Sussman_Yalow"
+   },
+   {
+      "profession" : "American tennis player",
+      "month" : "May",
+      "birthyear" : "1919",
+      "link" : "https://en.wikipedia.org/wiki/Pauline_Betz",
+      "name" : "Pauline Betz",
+      "day" : "31"
+   },
+   {
+      "name" : "Andrew Gold",
+      "day" : "3",
+      "link" : "https://en.wikipedia.org/wiki/Andrew_Gold",
+      "profession" : "American singer-songwriter and musician",
+      "month" : "June",
+      "birthyear" : "1951"
+   },
+   {
+      "profession" : "American euthanasia advocate",
+      "month" : "June",
+      "birthyear" : "1928",
+      "link" : "https://en.wikipedia.org/wiki/Jack_Kevorkian",
+      "name" : "Jack Kevorkian",
+      "day" : "3"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Lawrence_Eagleburger",
+      "month" : "June",
+      "profession" : "American diplomat",
+      "birthyear" : "1930",
+      "name" : "Lawrence Eagleburger",
+      "day" : "4"
+   },
+   {
+      "profession" : "Belgian writer and political activist",
+      "month" : "June",
+      "birthyear" : "1946",
+      "link" : "https://en.wikipedia.org/wiki/Ludo_Martens",
+      "name" : "Ludo Martens",
+      "day" : "5"
+   },
+   {
+      "name" : "Jorge Semprún",
+      "day" : "7",
+      "profession" : "Spanish writer and politician",
+      "month" : "June",
+      "birthyear" : "1923",
+      "link" : "https://en.wikipedia.org/wiki/Jorge_Semprún"
+   },
+   {
+      "day" : "8",
+      "name" : "Anatole Abragam",
+      "birthyear" : "1914",
+      "profession" : "French physicist",
+      "month" : "June",
+      "link" : "https://en.wikipedia.org/wiki/Anatole_Abragam"
+   },
+   {
+      "birthyear" : "1948",
+      "month" : "June",
+      "profession" : "Bosnian footballer",
+      "link" : "https://en.wikipedia.org/wiki/Josip_Katalinski",
+      "day" : "9",
+      "name" : "Josip Katalinski"
+   },
+   {
+      "name" : "Tomoko Kawakami",
+      "day" : "9",
+      "month" : "June",
+      "profession" : "Japanese voice actress",
+      "birthyear" : "1970",
+      "link" : "https://en.wikipedia.org/wiki/Tomoko_Kawakami"
+   },
+   {
+      "profession" : "British travel writer, scholar, and soldier",
+      "month" : "June",
+      "birthyear" : "1915",
+      "link" : "https://en.wikipedia.org/wiki/Patrick_Leigh_Fermor",
+      "name" : "Patrick Leigh Fermor",
+      "day" : "10"
+   },
+   {
+      "name" : "Laura Ziskin",
+      "day" : "12",
+      "month" : "June",
+      "profession" : "American film producer",
+      "birthyear" : "1950",
+      "link" : "https://en.wikipedia.org/wiki/Laura_Ziskin"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Frederick_Chiluba",
+      "profession" : "2nd President of Zambia",
+      "month" : "June",
+      "birthyear" : "1943",
+      "name" : "Frederick Chiluba",
+      "day" : "18"
+   },
+   {
+      "day" : "18",
+      "name" : "Clarence Clemons",
+      "birthyear" : "1942",
+      "profession" : "American musician and actor",
+      "month" : "June",
+      "link" : "https://en.wikipedia.org/wiki/Clarence_Clemons"
+   },
+   {
+      "day" : "20",
+      "name" : "Ryan Dunn",
+      "link" : "https://en.wikipedia.org/wiki/Ryan_Dunn",
+      "birthyear" : "1977",
+      "profession" : "American television personality",
+      "month" : "June"
+   },
+   {
+      "name" : "Peter Falk",
+      "day" : "23",
+      "link" : "https://en.wikipedia.org/wiki/Peter_Falk",
+      "month" : "June",
+      "profession" : "American actor",
+      "birthyear" : "1927"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Tomislav_Ivić",
+      "profession" : "Croatian footballer and manager",
+      "month" : "June",
+      "birthyear" : "1933",
+      "name" : "Tomislav Ivić",
+      "day" : "24"
+   },
+   {
+      "birthyear" : "1947",
+      "profession" : "American actress",
+      "month" : "June",
+      "link" : "https://en.wikipedia.org/wiki/Alice_Playten",
+      "day" : "25",
+      "name" : "Alice Playten"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Itamar_Franco",
+      "birthyear" : "1930",
+      "month" : "July",
+      "profession" : "37th President of Brazil",
+      "day" : "2",
+      "name" : "Itamar Franco"
+   },
+   {
+      "day" : "4",
+      "name" : "Archduke Otto of Austria",
+      "birthyear" : "1912",
+      "profession" : "Archduke Otto of Austria",
+      "month" : "July",
+      "link" : "https://en.wikipedia.org/wiki/Otto_von_Habsburg"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Cy_Twombly",
+      "profession" : "American painter",
+      "month" : "July",
+      "birthyear" : "1928",
+      "name" : "Cy Twombly",
+      "day" : "5"
+   },
+   {
+      "profession" : "American actor and poet",
+      "month" : "July",
+      "birthyear" : "1924",
+      "link" : "https://en.wikipedia.org/wiki/Roberts_Blossom",
+      "name" : "Roberts Blossom",
+      "day" : "8"
+   },
+   {
+      "day" : "8",
+      "name" : "Betty Ford",
+      "birthyear" : "1918",
+      "month" : "July",
+      "profession" : "American feminist, activist, philanthropist and First Lady of the United States",
+      "link" : "https://en.wikipedia.org/wiki/Betty_Ford"
+   },
+   {
+      "name" : "Facundo Cabral",
+      "day" : "9",
+      "month" : "July",
+      "profession" : "Argentine singer",
+      "birthyear" : "1937",
+      "link" : "https://en.wikipedia.org/wiki/Facundo_Cabral"
+   },
+   {
+      "profession" : "French choreographer and dancer",
+      "month" : "July",
+      "birthyear" : "1924",
+      "link" : "https://en.wikipedia.org/wiki/Roland_Petit",
+      "name" : "Roland Petit",
+      "day" : "10"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Tom_Gehrels",
+      "profession" : "American astronomer",
+      "month" : "July",
+      "birthyear" : "1925",
+      "name" : "Tom Gehrels",
+      "day" : "11"
+   },
+   {
+      "day" : "15",
+      "name" : "Friedrich Wilhelm Schnitzler",
+      "link" : "https://en.wikipedia.org/wiki/Friedrich_Wilhelm_Schnitzler",
+      "birthyear" : "1928",
+      "month" : "July",
+      "profession" : "German landowner, politician, and businessman"
+   },
+   {
+      "birthyear" : "1928",
+      "month" : "July",
+      "profession" : "36th President of Uruguay",
+      "link" : "https://en.wikipedia.org/wiki/Juan_María_Bordaberry",
+      "day" : "17",
+      "name" : "Juan María Bordaberry"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Lucian_Freud",
+      "birthyear" : "1922",
+      "profession" : "German-born British painter",
+      "month" : "July",
+      "day" : "20",
+      "name" : "Lucian Freud"
+   },
+   {
+      "day" : "22",
+      "name" : "Linda Christian",
+      "link" : "https://en.wikipedia.org/wiki/Linda_Christian",
+      "birthyear" : "1923",
+      "profession" : "Mexican actress",
+      "month" : "July"
+   },
+   {
+      "birthyear" : "1930",
+      "profession" : "8th Prime Minister of the Republic of Vietnam",
+      "month" : "July",
+      "link" : "https://en.wikipedia.org/wiki/Nguyễn_Cao_Kỳ",
+      "day" : "23",
+      "name" : "Nguyễn Cao Kỳ"
+   },
+   {
+      "profession" : "English singer",
+      "month" : "July",
+      "birthyear" : "1983",
+      "link" : "https://en.wikipedia.org/wiki/Amy_Winehouse",
+      "name" : "Amy Winehouse",
+      "day" : "23"
+   },
+   {
+      "day" : "24",
+      "name" : "G. D. Spradlin",
+      "birthyear" : "1920",
+      "profession" : "American actor",
+      "month" : "July",
+      "link" : "https://en.wikipedia.org/wiki/G._D._Spradlin"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Mihalis_Kakogiannis",
+      "birthyear" : "1922",
+      "profession" : "Cypriot filmmaker",
+      "month" : "July",
+      "day" : "25",
+      "name" : "Mihalis Kakogiannis"
+   },
+   {
+      "day" : "26",
+      "name" : "Joe Arroyo",
+      "birthyear" : "1955",
+      "profession" : "Colombian salsa and tropical music singer",
+      "month" : "July",
+      "link" : "https://en.wikipedia.org/wiki/Joe_Arroyo"
+   },
+   {
+      "name" : "Abdul Fatah Younis",
+      "day" : "28",
+      "profession" : "Libyan army commander",
+      "month" : "July",
+      "birthyear" : "1944",
+      "link" : "https://en.wikipedia.org/wiki/Abdul_Fatah_Younis"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Mario_Echandi_Jiménez",
+      "profession" : "47th President of Costa Rica",
+      "month" : "July",
+      "birthyear" : "1915",
+      "name" : "Mario Echandi Jiménez",
+      "day" : "30"
+   },
+   {
+      "name" : "Baruj Benacerraf",
+      "day" : "2",
+      "link" : "https://en.wikipedia.org/wiki/Baruj_Benacerraf",
+      "profession" : "Venezuelan-born American Nobel immunologist",
+      "month" : "August",
+      "birthyear" : "1920"
+   },
+   {
+      "day" : "3",
+      "name" : "Bubba Smith",
+      "birthyear" : "1945",
+      "month" : "August",
+      "profession" : "American football player and actor",
+      "link" : "https://en.wikipedia.org/wiki/Bubba_Smith"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Naoki_Matsuda",
+      "month" : "August",
+      "profession" : "Japanese footballer",
+      "birthyear" : "1977",
+      "name" : "Naoki Matsuda",
+      "day" : "4"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Pak_Seung-zin",
+      "birthyear" : "1941",
+      "month" : "August",
+      "profession" : "North Korean footballer",
+      "day" : "5",
+      "name" : "Pak Seung-zin"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Aziz_Shavershian",
+      "profession" : "Russian-Australian bodybuilder",
+      "month" : "August",
+      "birthyear" : "1989",
+      "name" : "Aziz Shavershian",
+      "day" : "5"
+   },
+   {
+      "day" : "6",
+      "name" : "John Wood",
+      "link" : "https://en.wikipedia.org/wiki/John_Wood_(English_actor)",
+      "birthyear" : "1930",
+      "month" : "August",
+      "profession" : "English actor"
+   },
+   {
+      "name" : "Harri Holkeri",
+      "day" : "7",
+      "profession" : "36th Prime Minister of Finland",
+      "month" : "August",
+      "birthyear" : "1937",
+      "link" : "https://en.wikipedia.org/wiki/Harri_Holkeri"
+   },
+   {
+      "birthyear" : "1912",
+      "profession" : "New Zealand-born French Resistance fighter",
+      "month" : "August",
+      "link" : "https://en.wikipedia.org/wiki/Nancy_Wake",
+      "day" : "7",
+      "name" : "Nancy Wake"
+   },
+   {
+      "day" : "14",
+      "name" : "Shammi Kapoor",
+      "birthyear" : "1931",
+      "month" : "August",
+      "profession" : "Indian film actor and director",
+      "link" : "https://en.wikipedia.org/wiki/Shammi_Kapoor"
+   },
+   {
+      "day" : "16",
+      "name" : "Andrej Bajuk",
+      "link" : "https://en.wikipedia.org/wiki/Andrej_Bajuk",
+      "birthyear" : "1943",
+      "profession" : "3rd Prime Minister of the Republic of Slovenia",
+      "month" : "August"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Pierre_Quinon",
+      "profession" : "French pole vaulter",
+      "month" : "August",
+      "birthyear" : "1962",
+      "name" : "Pierre Quinon",
+      "day" : "17"
+   },
+   {
+      "month" : "August",
+      "profession" : "Chilean film director",
+      "birthyear" : "1941",
+      "link" : "https://en.wikipedia.org/wiki/Raúl_Ruiz_(director)",
+      "name" : "Raúl Ruiz",
+      "day" : "19"
+   },
+   {
+      "day" : "22",
+      "name" : "Jack Layton",
+      "link" : "https://en.wikipedia.org/wiki/Jack_Layton",
+      "birthyear" : "1950",
+      "month" : "August",
+      "profession" : "Canadian politician"
+   },
+   {
+      "day" : "22",
+      "name" : "Vicco von Bülow",
+      "birthyear" : "1923",
+      "profession" : "German actor, comedian, and film director",
+      "month" : "August",
+      "link" : "https://en.wikipedia.org/wiki/Loriot"
+   },
+   {
+      "birthyear" : "1939",
+      "profession" : "Soviet-Russian cosmonaut",
+      "month" : "August",
+      "link" : "https://en.wikipedia.org/wiki/Valery_Rozhdestvensky",
+      "day" : "31",
+      "name" : "Valery Rozhdestvensky"
+   },
+   {
+      "day" : "8",
+      "name" : "Võ Chí Công",
+      "birthyear" : "1912",
+      "profession" : "5th President of Vietnam",
+      "month" : "September",
+      "link" : "https://en.wikipedia.org/wiki/Võ_Chí_Công"
+   },
+   {
+      "birthyear" : "1923",
+      "month" : "September",
+      "profession" : "American actor",
+      "link" : "https://en.wikipedia.org/wiki/Cliff_Robertson",
+      "day" : "10",
+      "name" : "Cliff Robertson"
+   },
+   {
+      "name" : "Andy Whitfield",
+      "day" : "11",
+      "link" : "https://en.wikipedia.org/wiki/Andy_Whitfield",
+      "month" : "September",
+      "profession" : "Welsh actor and model",
+      "birthyear" : "1971"
+   },
+   {
+      "birthyear" : "1984",
+      "profession" : "Danish race car driver",
+      "month" : "September",
+      "link" : "https://en.wikipedia.org/wiki/Christian_Bakkerud",
+      "day" : "11",
+      "name" : "Christian Bakkerud"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Alexander_Galimov",
+      "birthyear" : "1985",
+      "month" : "September",
+      "profession" : "Russian hockey player",
+      "day" : "12",
+      "name" : "Alexander Galimov"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Richard_Hamilton_(artist)",
+      "profession" : "British painter and collage artist",
+      "month" : "September",
+      "birthyear" : "1922",
+      "name" : "Richard Hamilton",
+      "day" : "13"
+   },
+   {
+      "name" : "Rudolf Mössbauer",
+      "day" : "14",
+      "month" : "September",
+      "profession" : "German Nobel physicist",
+      "birthyear" : "1929",
+      "link" : "https://en.wikipedia.org/wiki/Rudolf_Mössbauer"
+   },
+   {
+      "day" : "15",
+      "name" : "Frances Bay",
+      "birthyear" : "1919",
+      "profession" : "Canadian-American character actress",
+      "month" : "September",
+      "link" : "https://en.wikipedia.org/wiki/Frances_Bay"
+   },
+   {
+      "name" : "George Cadle Price",
+      "day" : "19",
+      "profession" : "1st Prime Minister of Belize",
+      "month" : "September",
+      "birthyear" : "1919",
+      "link" : "https://en.wikipedia.org/wiki/George_Cadle_Price"
+   },
+   {
+      "birthyear" : "1940",
+      "profession" : "President of Afghanistan from 1992 to 1996",
+      "month" : "September",
+      "link" : "https://en.wikipedia.org/wiki/Burhanuddin_Rabbani",
+      "day" : "20",
+      "name" : "Burhanuddin Rabbani"
+   },
+   {
+      "name" : "Troy Davis",
+      "day" : "21",
+      "month" : "September",
+      "profession" : "American murderer",
+      "birthyear" : "1968",
+      "link" : "https://en.wikipedia.org/wiki/Troy_Davis"
+   },
+   {
+      "day" : "22",
+      "name" : "Aristides Pereira",
+      "link" : "https://en.wikipedia.org/wiki/Aristides_Pereira",
+      "birthyear" : "1923",
+      "month" : "September",
+      "profession" : "1st President of Cape Verde"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Vesta_Williams",
+      "birthyear" : "1957",
+      "month" : "September",
+      "profession" : "American singer-songwriter",
+      "day" : "22",
+      "name" : "Vesta Williams"
+   },
+   {
+      "profession" : "Kenyan veterinary anatomist and Nobel Peace Prize laureate",
+      "month" : "September",
+      "birthyear" : "1940",
+      "link" : "https://en.wikipedia.org/wiki/Wangari_Maathai",
+      "name" : "Wangari Maathai",
+      "day" : "25"
+   },
+   {
+      "day" : "27",
+      "name" : "Imre Makovecz",
+      "birthyear" : "1935",
+      "month" : "September",
+      "profession" : "Hungarian architect",
+      "link" : "https://en.wikipedia.org/wiki/Imre_Makovecz"
+   },
+   {
+      "day" : "29",
+      "name" : "Hella Haasse",
+      "link" : "https://en.wikipedia.org/wiki/Hella_Haasse",
+      "birthyear" : "1918",
+      "month" : "September",
+      "profession" : "Dutch writer"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Sylvia_Robinson",
+      "month" : "September",
+      "profession" : "American singer, musician, and record producer",
+      "birthyear" : "1935",
+      "name" : "Sylvia Robinson",
+      "day" : "29"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Anwar_al-Awlaki",
+      "profession" : "American-born terrorist and Islamist militant",
+      "month" : "September",
+      "birthyear" : "1971",
+      "name" : "Anwar al-Awlaki",
+      "day" : "30"
+   },
+   {
+      "birthyear" : "1943",
+      "profession" : "Canadian Nobel immunologist and cell biologist",
+      "month" : "September",
+      "link" : "https://en.wikipedia.org/wiki/Ralph_M._Steinman",
+      "day" : "30",
+      "name" : "Ralph M. Steinman"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Sven_Tumba",
+      "profession" : "Swedish hockey player",
+      "month" : "October",
+      "birthyear" : "1931",
+      "name" : "Sven Tumba",
+      "day" : "1"
+   },
+   {
+      "name" : "Doris Belack",
+      "day" : "4",
+      "month" : "October",
+      "profession" : "American actress",
+      "birthyear" : "1926",
+      "link" : "https://en.wikipedia.org/wiki/Doris_Belack"
+   },
+   {
+      "day" : "5",
+      "name" : "Steve Jobs",
+      "link" : "https://en.wikipedia.org/wiki/Steve_Jobs",
+      "birthyear" : "1955",
+      "month" : "October",
+      "profession" : "American computer entrepreneur"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Charles_Napier_(actor)",
+      "month" : "October",
+      "profession" : "American character actor",
+      "birthyear" : "1936",
+      "name" : "Charles Napier",
+      "day" : "5"
+   },
+   {
+      "name" : "Diane Cilento",
+      "day" : "6",
+      "month" : "October",
+      "profession" : "Australian actress and author",
+      "birthyear" : "1933",
+      "link" : "https://en.wikipedia.org/wiki/Diane_Cilento"
+   },
+   {
+      "month" : "October",
+      "profession" : "1st President of Albania",
+      "birthyear" : "1925",
+      "link" : "https://en.wikipedia.org/wiki/Ramiz_Alia",
+      "name" : "Ramiz Alia",
+      "day" : "7"
+   },
+   {
+      "name" : "Mikey Welsh",
+      "day" : "8",
+      "month" : "October",
+      "profession" : "American musician and artist",
+      "birthyear" : "1971",
+      "link" : "https://en.wikipedia.org/wiki/Mikey_Welsh"
+   },
+   {
+      "name" : "Jagjit Singh",
+      "day" : "10",
+      "link" : "https://en.wikipedia.org/wiki/Jagjit_Singh",
+      "profession" : "Indian singer, composer and musician",
+      "month" : "October",
+      "birthyear" : "1941"
+   },
+   {
+      "day" : "11",
+      "name" : "Frank Kameny",
+      "birthyear" : "1925",
+      "month" : "October",
+      "profession" : "American gay rights activist",
+      "link" : "https://en.wikipedia.org/wiki/Frank_Kameny"
+   },
+   {
+      "name" : "Dennis Ritchie",
+      "day" : "12",
+      "link" : "https://en.wikipedia.org/wiki/Dennis_Ritchie",
+      "profession" : "American computer scientist",
+      "month" : "October",
+      "birthyear" : "1941"
+   },
+   {
+      "name" : "Dan Wheldon",
+      "day" : "16",
+      "month" : "October",
+      "profession" : "English racing car driver",
+      "birthyear" : "1978",
+      "link" : "https://en.wikipedia.org/wiki/Dan_Wheldon"
+   },
+   {
+      "birthyear" : "1910",
+      "profession" : "American radio writer, director and producer",
+      "month" : "October",
+      "link" : "https://en.wikipedia.org/wiki/Norman_Corwin",
+      "day" : "18",
+      "name" : "Norman Corwin"
+   },
+   {
+      "birthyear" : "1942",
+      "profession" : "Libyan dictator",
+      "month" : "October",
+      "link" : "https://en.wikipedia.org/wiki/Muammar_Gaddafi",
+      "day" : "20",
+      "name" : "Muammar Gaddafi"
+   },
+   {
+      "month" : "October",
+      "profession" : "Slovenian handball player",
+      "birthyear" : "1966",
+      "link" : "https://en.wikipedia.org/wiki/Iztok_Puc",
+      "name" : "Iztok Puc",
+      "day" : "20"
+   },
+   {
+      "name" : "Sultan",
+      "day" : "22",
+      "profession" : "Crown Prince of Saudi Arabia,",
+      "month" : "October",
+      "birthyear" : "1930",
+      "link" : "https://en.wikipedia.org/wiki/Sultan"
+   },
+   {
+      "birthyear" : "1938",
+      "month" : "October",
+      "profession" : "5th Prime Minister of Lithuania",
+      "link" : "https://en.wikipedia.org/wiki/Bronislovas_Lubys",
+      "day" : "23",
+      "name" : "Bronislovas Lubys"
+   },
+   {
+      "name" : "Marco Simoncelli",
+      "day" : "23",
+      "link" : "https://en.wikipedia.org/wiki/Marco_Simoncelli",
+      "profession" : "Italian motorcycle road racer",
+      "month" : "October",
+      "birthyear" : "1987"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)",
+      "birthyear" : "1927",
+      "month" : "October",
+      "profession" : "American computer scientist",
+      "day" : "24",
+      "name" : "John McCarthy"
+   },
+   {
+      "name" : "Jona Senilagakali",
+      "day" : "26",
+      "month" : "October",
+      "profession" : "Prime Minister of Fiji",
+      "birthyear" : "1929",
+      "link" : "https://en.wikipedia.org/wiki/Jona_Senilagakali"
+   },
+   {
+      "day" : "29",
+      "name" : "Jimmy Savile",
+      "birthyear" : "1926",
+      "month" : "October",
+      "profession" : "English DJ, television presenter, media personality, and charity fundraiser",
+      "link" : "https://en.wikipedia.org/wiki/Jimmy_Savile"
+   },
+   {
+      "day" : "31",
+      "name" : "Flórián Albert",
+      "birthyear" : "1941",
+      "profession" : "Hungarian footballer",
+      "month" : "October",
+      "link" : "https://en.wikipedia.org/wiki/Flórián_Albert"
+   },
+   {
+      "day" : "31",
+      "name" : "Ali Saibou",
+      "link" : "https://en.wikipedia.org/wiki/Ali_Saibou",
+      "birthyear" : "1940",
+      "profession" : "3rd President of Niger",
+      "month" : "October"
+   },
+   {
+      "birthyear" : "1948",
+      "profession" : "Colombian militant leader",
+      "month" : "November",
+      "link" : "https://en.wikipedia.org/wiki/Alfonso_Cano",
+      "day" : "4",
+      "name" : "Alfonso Cano"
+   },
+   {
+      "day" : "4",
+      "name" : "Norman Foster Ramsey Jr.",
+      "link" : "https://en.wikipedia.org/wiki/Norman_Foster_Ramsey_Jr.",
+      "birthyear" : "1915",
+      "month" : "November",
+      "profession" : "American Nobel physicist"
+   },
+   {
+      "profession" : "American boxer",
+      "month" : "November",
+      "birthyear" : "1944",
+      "link" : "https://en.wikipedia.org/wiki/Joe_Frazier",
+      "name" : "Joe Frazier",
+      "day" : "7"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Heavy_D",
+      "profession" : "Jamaican-born American actor, rapper",
+      "month" : "November",
+      "birthyear" : "1967",
+      "name" : "Heavy D",
+      "day" : "8"
+   },
+   {
+      "name" : "Valentin Ivanov",
+      "day" : "8",
+      "link" : "https://en.wikipedia.org/wiki/Valentin_Kozmich_Ivanov",
+      "month" : "November",
+      "profession" : "Russian footballer",
+      "birthyear" : "1934"
+   },
+   {
+      "birthyear" : "1922",
+      "month" : "November",
+      "profession" : "Indian-born American Nobel biochemist",
+      "link" : "https://en.wikipedia.org/wiki/Har_Gobind_Khorana",
+      "day" : "9",
+      "name" : "Har Gobind Khorana"
+   },
+   {
+      "birthyear" : "1966",
+      "profession" : "Mexican politician",
+      "month" : "November",
+      "link" : "https://en.wikipedia.org/wiki/Francisco_Blake_Mora",
+      "day" : "11",
+      "name" : "Francisco Blake Mora"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/John_Neville_(actor)",
+      "month" : "November",
+      "profession" : "English actor",
+      "birthyear" : "1925",
+      "name" : "John Neville",
+      "day" : "19"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Anne_McCaffrey",
+      "month" : "November",
+      "profession" : "American-born Irish writer",
+      "birthyear" : "1926",
+      "name" : "Anne McCaffrey",
+      "day" : "21"
+   },
+   {
+      "day" : "22",
+      "name" : "Danielle Mitterrand",
+      "link" : "https://en.wikipedia.org/wiki/Danielle_Mitterrand",
+      "birthyear" : "1924",
+      "month" : "November",
+      "profession" : "First Lady of France"
+   },
+   {
+      "day" : "22",
+      "name" : "Paul Motian",
+      "link" : "https://en.wikipedia.org/wiki/Paul_Motian",
+      "birthyear" : "1931",
+      "profession" : "American jazz drummer",
+      "month" : "November"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Vasily_Alekseyev",
+      "profession" : "Soviet-Russian weightlifter",
+      "month" : "November",
+      "birthyear" : "1942",
+      "name" : "Vasily Alekseyev",
+      "day" : "25"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Ken_Russell",
+      "profession" : "British film director",
+      "month" : "November",
+      "birthyear" : "1927",
+      "name" : "Ken Russell",
+      "day" : "27"
+   },
+   {
+      "month" : "November",
+      "profession" : "Welsh footballer and coach",
+      "birthyear" : "1969",
+      "link" : "https://en.wikipedia.org/wiki/Gary_Speed",
+      "name" : "Gary Speed",
+      "day" : "27"
+   },
+   {
+      "day" : "28",
+      "name" : "Charles Thomas Kowal",
+      "link" : "https://en.wikipedia.org/wiki/Charles_Thomas_Kowal",
+      "birthyear" : "1940",
+      "profession" : "American astronomer",
+      "month" : "November"
+   },
+   {
+      "day" : "28",
+      "name" : "Ante Marković",
+      "link" : "https://en.wikipedia.org/wiki/Ante_Marković",
+      "birthyear" : "1924",
+      "month" : "November",
+      "profession" : "9th Prime Minister of SFR Yugoslavia"
+   },
+   {
+      "month" : "November",
+      "profession" : "American comedian and radio personality",
+      "birthyear" : "1969",
+      "link" : "https://en.wikipedia.org/wiki/Patrice_O'Neal",
+      "name" : "Patrice O'Neal",
+      "day" : "29"
+   },
+   {
+      "name" : "Christa Wolf",
+      "day" : "1",
+      "profession" : "German writer",
+      "month" : "December",
+      "birthyear" : "1929",
+      "link" : "https://en.wikipedia.org/wiki/Christa_Wolf"
+   },
+   {
+      "month" : "December",
+      "profession" : "Indian actor",
+      "birthyear" : "1923",
+      "link" : "https://en.wikipedia.org/wiki/Dev_Anand",
+      "name" : "Dev Anand",
+      "day" : "3"
+   },
+   {
+      "name" : "Sócrates",
+      "day" : "4",
+      "profession" : "Brazilian footballer",
+      "month" : "December",
+      "birthyear" : "1954",
+      "link" : "https://en.wikipedia.org/wiki/Sócrates"
+   },
+   {
+      "day" : "4",
+      "name" : "Hubert Sumlin",
+      "link" : "https://en.wikipedia.org/wiki/Hubert_Sumlin",
+      "birthyear" : "1931",
+      "month" : "December",
+      "profession" : "American blues guitarist and singer"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Violetta_Villas",
+      "birthyear" : "1938",
+      "profession" : "Polish singer",
+      "month" : "December",
+      "day" : "5",
+      "name" : "Violetta Villas"
+   },
+   {
+      "day" : "7",
+      "name" : "Harry Morgan",
+      "birthyear" : "1915",
+      "month" : "December",
+      "profession" : "American actor",
+      "link" : "https://en.wikipedia.org/wiki/Harry_Morgan"
+   },
+   {
+      "month" : "December",
+      "profession" : "American cardinal",
+      "birthyear" : "1935",
+      "link" : "https://en.wikipedia.org/wiki/John_Patrick_Foley",
+      "name" : "John Patrick Foley",
+      "day" : "11"
+   },
+   {
+      "day" : "13",
+      "name" : "Russell Hoban",
+      "link" : "https://en.wikipedia.org/wiki/Russell_Hoban",
+      "birthyear" : "1925",
+      "profession" : "American-British writer",
+      "month" : "December"
+   },
+   {
+      "birthyear" : "1927",
+      "month" : "December",
+      "profession" : "South Korean politician",
+      "link" : "https://en.wikipedia.org/wiki/Park_Tae-joon",
+      "day" : "13",
+      "name" : "Park Tae-joon"
+   },
+   {
+      "birthyear" : "1913",
+      "month" : "December",
+      "profession" : "American comic book writer and artist",
+      "link" : "https://en.wikipedia.org/wiki/Joe_Simon",
+      "day" : "14",
+      "name" : "Joe Simon"
+   },
+   {
+      "name" : "Billie Jo Spears",
+      "day" : "14",
+      "link" : "https://en.wikipedia.org/wiki/Billie_Jo_Spears",
+      "profession" : "American country music singer",
+      "month" : "December",
+      "birthyear" : "1937"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Christopher_Hitchens",
+      "profession" : "British-American writer",
+      "month" : "December",
+      "birthyear" : "1949",
+      "name" : "Christopher Hitchens",
+      "day" : "15"
+   },
+   {
+      "name" : "Robert Easton",
+      "day" : "16",
+      "month" : "December",
+      "profession" : "American actor",
+      "birthyear" : "1930",
+      "link" : "https://en.wikipedia.org/wiki/Robert_Easton_(actor)"
+   },
+   {
+      "day" : "16",
+      "name" : "Nicol Williamson",
+      "birthyear" : "1936",
+      "month" : "December",
+      "profession" : "Scottish-English actor and singer",
+      "link" : "https://en.wikipedia.org/wiki/Nicol_Williamson"
+   },
+   {
+      "month" : "December",
+      "profession" : "Cape Verdean singer",
+      "birthyear" : "1941",
+      "link" : "https://en.wikipedia.org/wiki/Cesária_Évora",
+      "name" : "Cesária Évora",
+      "day" : "17"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Kim_Jong-il",
+      "profession" : "Supreme Leader of the Democratic People’s Republic of Korea",
+      "month" : "December",
+      "birthyear" : "1941",
+      "name" : "Kim Jong-il",
+      "day" : "17"
+   },
+   {
+      "birthyear" : "1936",
+      "profession" : "Czech playwright, 10th President of Czechoslovakia and 1st President of the Czech Republic",
+      "month" : "December",
+      "link" : "https://en.wikipedia.org/wiki/Václav_Havel",
+      "day" : "18",
+      "name" : "Václav Havel"
+   },
+   {
+      "day" : "21",
+      "name" : "Yevhen Rudakov",
+      "birthyear" : "1942",
+      "profession" : "Ukrainian footballer",
+      "month" : "December",
+      "link" : "https://en.wikipedia.org/wiki/Yevhen_Rudakov"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/William_Duell",
+      "profession" : "American actor and singer",
+      "month" : "December",
+      "birthyear" : "1923",
+      "name" : "William Duell",
+      "day" : "22"
+   },
+   {
+      "name" : "Johannes Heesters",
+      "day" : "24",
+      "profession" : "Dutch actor and singer",
+      "month" : "December",
+      "birthyear" : "1903",
+      "link" : "https://en.wikipedia.org/wiki/Johannes_Heesters"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Kennan_Adeang",
+      "month" : "December",
+      "profession" : "3-Time President of Nauru",
+      "birthyear" : "1942",
+      "name" : "Kennan Adeang",
+      "day" : "26"
+   },
+   {
+      "link" : "https://en.wikipedia.org/wiki/Pedro_Armendáriz_Jr.",
+      "birthyear" : "1940",
+      "profession" : "Mexican actor",
+      "month" : "December",
+      "day" : "26",
+      "name" : "Pedro Armendáriz Jr."
+   },
+   {
+      "name" : "Helen Frankenthaler",
+      "day" : "27",
+      "profession" : "American abstract expressionist painter",
+      "month" : "December",
+      "birthyear" : "1928",
+      "link" : "https://en.wikipedia.org/wiki/Helen_Frankenthaler"
+   }
 ]
